@@ -4,6 +4,7 @@ This project demonstrates how to develop and use a Tic-Tac-Toe game in Python by
 
 
 Class Diagram:
+
 <img width="391" alt="image" src="https://github.com/user-attachments/assets/55a99fa2-fd41-48a5-aa3e-ecfec088864b" />
 
 
